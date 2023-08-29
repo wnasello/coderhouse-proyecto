@@ -21,6 +21,8 @@
        header nav ul li a{
           margin: 10px;
           border-radius: 5px;
+          color: wheat;
+          text-decoration: none;
           transition: 1s;}   
   
           
@@ -48,5 +50,66 @@
   
   
   
-  /*CONTACTOS*/
-   /*zona navegable*/
+  /*nosotros2*/
+
+  .texto{ color: red; 
+   font-size: 25px;
+   text-align: center;
+background-color: gray;}
+
+.contenedor{display: flex;}
+.bmw525i{height: 20rem;}
+.a3{height: 20rem;}
+.borita{height: 20rem;}
+
+
+
+
+
+
+
+footer div{border-top: 2px solid; 
+   background-color: grey;}
+   .logowpp{width: 60px; 
+      position: fixed;
+   bottom: 50px;
+right: 10px;;}
+
+.logoig{width: 80px;
+     height: 80px;
+     padding:10px
+     ;}
+
+.logoface{
+width: 110px;
+height: 105px;
+padding: 10px;
+}
+
+
+p{text-align: center;}
+
+
+
+
+
+/* AUTOS*/
+
+
+/*BODY*/
+
+.ef{height: 20rem; width: 25rem;margin-right: 1rem;margin-top: 2rem;} 
+.duna{height: 20rem;width: 25rem;margin-right: 1rem;margin-top: 2rem;}
+.mecha{height: 20rem; width: 25rem;margin-right: 1rem;margin-top:2rem}
+
+
+.imgcivic{text-align: center;}
+.imgduna{text-align: center;}
+.imgmecha{text-align: center;}
+
+.contiene{display: flex;}
+
+/*FOOTER*/
+
+
+  
